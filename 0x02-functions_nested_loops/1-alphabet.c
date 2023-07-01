@@ -6,7 +6,7 @@
 	 */
 
 
-void print_alphabet in lowercase(void)
+	void print_alphabet(void)
 	{
 		char letter;
 
@@ -17,3 +17,4 @@ void print_alphabet in lowercase(void)
 
 		_putchar('\n');
 	}
+
