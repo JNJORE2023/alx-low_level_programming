@@ -7,6 +7,7 @@
 	 */
 	void print_alphabet_x10(void)
 	{
+		//alphabets in lowercase
 		char ch;
 		int i;
 
