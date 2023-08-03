@@ -1,10 +1,10 @@
 /**
- * binary_to_uint_custom - Converts a binary number to an unsigned int.
+ * binary_to_uint - Converts a binary number to an unsigned int.
  * @binary_str: A pointer to a string containing the binary number.
  *
  * Return: The converted unsigned int value, or 0 if invalid input.
  */
-unsigned int binary_to_uint_custom(const char *binary_str)
+unsigned int binary_to_uint(const char *binary_str)
 {
 	int i;
 	unsigned int decimal_val = 0;
